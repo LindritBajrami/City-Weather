@@ -17,7 +17,7 @@ The app is deployed and can be accessed at [https://lindritbajrami.github.io/cit
    ```sh
    git clone https://github.com/LindritBajrami/city-weather.git
 2. Navigate to the project directory:
-   weather-web-app
+   city-weather
 
 ### Running the App
 1. Open the index.html file.
